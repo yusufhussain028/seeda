@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/seeda/static/css/main.36ccff7c.chunk.css",
+    "main.js": "/seeda/static/js/main.9f762ae8.chunk.js",
+    "main.js.map": "/seeda/static/js/main.9f762ae8.chunk.js.map",
+    "runtime-main.js": "/seeda/static/js/runtime-main.059ee274.js",
+    "runtime-main.js.map": "/seeda/static/js/runtime-main.059ee274.js.map",
+    "static/js/2.ee023c72.chunk.js": "/seeda/static/js/2.ee023c72.chunk.js",
+    "static/js/2.ee023c72.chunk.js.map": "/seeda/static/js/2.ee023c72.chunk.js.map",
+    "static/js/3.84568fc8.chunk.js": "/seeda/static/js/3.84568fc8.chunk.js",
+    "static/js/3.84568fc8.chunk.js.map": "/seeda/static/js/3.84568fc8.chunk.js.map",
+    "index.html": "/seeda/index.html",
+    "static/css/main.36ccff7c.chunk.css.map": "/seeda/static/css/main.36ccff7c.chunk.css.map",
+    "static/js/2.ee023c72.chunk.js.LICENSE.txt": "/seeda/static/js/2.ee023c72.chunk.js.LICENSE.txt",
+    "static/media/Bitmap.4c7de179.png": "/seeda/static/media/Bitmap.4c7de179.png",
+    "static/media/Group.ce468628.png": "/seeda/static/media/Group.ce468628.png",
+    "static/media/Triangle.3b3bb1ff.png": "/seeda/static/media/Triangle.3b3bb1ff.png",
+    "static/media/lastPic.165b5689.png": "/seeda/static/media/lastPic.165b5689.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.059ee274.js",
+    "static/js/2.ee023c72.chunk.js",
+    "static/css/main.36ccff7c.chunk.css",
+    "static/js/main.9f762ae8.chunk.js"
+  ]
+}
